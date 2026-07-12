@@ -22,6 +22,7 @@ function CartItem({ productName, initialQuantity = 1, price }) {
     setQuantity(prevQuantity => prevQuantity + 1);
   };
 
+  
   // Handler to decrease quantity
   const decreaseQuantity = () => {
     // Ensure quantity does not go below 1

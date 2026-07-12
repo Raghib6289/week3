@@ -16,6 +16,7 @@ function CartItem({ productName, initialQuantity = 1, price }) {
   // State to manage the quantity of this specific item
   const [quantity, setQuantity] = useState(initialQuantity);
 
+  
   // Handler to increase quantity
   const increaseQuantity = () => {
     // Use functional update to ensure we're always adding to the latest quantity

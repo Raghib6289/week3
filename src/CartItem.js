@@ -8,6 +8,7 @@
 // Create a new component, e.g., CartItem.js
 
 // src/CartItem.js
+
 import React, { useState } from 'react';
 import './CartItem.css'; // We'll create this CSS file next
 

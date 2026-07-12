@@ -4,7 +4,6 @@
 // Objective: Build a component that displays a product and allows the user to increase or decrease its quantity in a shopping cart.
 
 // Step 1: Create the Cart Item Component
-
 // Create a new component, e.g., CartItem.js
 
 // src/CartItem.js

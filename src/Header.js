@@ -1,4 +1,4 @@
-// src/components/Header.js
+// src/Header.js
 
 import React from 'react';
 

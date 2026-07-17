@@ -50,6 +50,7 @@
   transition: background-color 0.2s ease;
 }
 
+
 .quantity-button:hover {
   background-color: #e0e0e0;
 }

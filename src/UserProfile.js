@@ -44,7 +44,7 @@
 
 // Example using PropTypes:
 
-// src/components/UserProfile.js (with PropTypes)
+// src/UserProfile.js (with PropTypes)
 
 import React from 'react';
 import PropTypes from 'prop-types'; // Import PropTypes

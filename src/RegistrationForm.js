@@ -17,6 +17,7 @@ function RegistrationForm() {
   const [password, setPassword] = useState('');
   const [isSubscribed, setIsSubscribed] = useState(false);
 
+  
   // Handler for form submission
   const handleSubmit = (event) => {
     event.preventDefault(); // Prevent default browser form submission

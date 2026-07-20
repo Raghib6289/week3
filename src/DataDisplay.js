@@ -18,6 +18,7 @@ function DataDisplay() {
         const fetchedData = { message: 'Data loaded successfully!' };
         setData(fetchedData);
         setIsLoading(false);
+
         
         // Uncomment below to simulate an error
         // throw new Error('Failed to fetch data');
